@@ -1,6 +1,6 @@
 # flutter_food
 
-A new Flutter project.
+Mobile Homework
 
 ## Getting Started
 
